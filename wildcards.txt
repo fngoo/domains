@@ -1,4 +1,5 @@
 *.60.com
+*.att.com
 *.KuCoin.com
 *.base.be
 *.search.gov
