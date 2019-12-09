@@ -1,6 +1,7 @@
 *.60.com
 *.att.com
 *.KuCoin.com
+*.uber.com
 *.base.be
 *.search.gov
 *.KuMEX.com
