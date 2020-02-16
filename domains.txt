@@ -1,4 +1,4 @@
-Ocean.one
+ocean.one
 prometheus.fr.cloud.gov
 vote.gov
 bridgeapi.io
