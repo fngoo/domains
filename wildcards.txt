@@ -1701,3 +1701,5 @@ directv-directv.com
 morega.com
 video.logi.com
 attlabsnaturalvoices.com
+circle.logi.com
+streamlabs.com
