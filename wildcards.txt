@@ -60,3 +60,5 @@ message-assistant.com
 mybellsouth.com
 dtvsattv.com
 eameritech.com
+directvarena.com
+directv-midwest.com
