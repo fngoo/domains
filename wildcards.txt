@@ -1656,3 +1656,5 @@ att-internet-service.com
 directvhotline.com
 cingularcellphones.info
 directvplus.info
+att-center.info
+directvsports.info
