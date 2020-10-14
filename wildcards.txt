@@ -1553,3 +1553,4 @@ attwireless.services
 vyatta.net
 atthomeandwireless.biz
 directtv-dsl.com
+uversebirmingham.com
