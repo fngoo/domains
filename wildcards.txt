@@ -3881,3 +3881,4 @@ attws.info
 digitaldecryption.net
 sbcdsl.info
 viperplus.org
+cingular-messaging.org
