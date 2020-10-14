@@ -1988,3 +1988,4 @@ sbc.com
 att-veterans.jobs
 attcellphones.net
 att-sanfrancisco.jobs
+att-columbus.jobs
