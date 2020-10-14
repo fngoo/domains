@@ -2727,3 +2727,5 @@ attadvancedwirelessservice.com
 talksgood.net
 directtvcompare.com
 wwwdirectvlatino.com
+vyatta.com
+directtvplano.com
