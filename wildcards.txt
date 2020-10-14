@@ -1914,3 +1914,5 @@ att-frame-relay.com
 directveslavoz.com
 nvbell.com
 attwatchtv.com
+directv-packages.com
+directvdesmoines.com
