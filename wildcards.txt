@@ -2879,3 +2879,5 @@ sbcu-versephone.biz
 u-versewifi.biz
 connectdirectv.net
 attuverse.tv
+attmidwest.net
+attg.net
