@@ -3527,3 +3527,4 @@ messageassistant.net
 nvbell.net
 directvtvanywhere.net
 directv2go.net
+sbcu-versevoice.net
