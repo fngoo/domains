@@ -1413,3 +1413,4 @@ freeview.info
 cingularinfo.org
 cingularhome.org
 yaveosport.org
+morega.info
