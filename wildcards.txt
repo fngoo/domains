@@ -1648,3 +1648,5 @@ vyatta.org
 directvgenierecommendations.com
 sbc-yahoo-dial.org
 inqnet.com
+attntwireless.com
+attinteractive.com
