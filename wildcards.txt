@@ -3643,3 +3643,5 @@ att-prepaid.org
 attportsaintlucie.com
 directtvmemphis.com
 att-uverse.app
+www-direct-tv.com
+sbc-messaging.com
