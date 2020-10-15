@@ -17809,3 +17809,4 @@ attcallingplans.mobi
 voiceinfo.mobi
 attbusinessdirect.biz
 cingularspain.org
+cingularpower.org
