@@ -5614,3 +5614,5 @@ atttv.app
 cricket.app
 dtvn.app
 itcanwait.co
+attbroadband.app
+directvcalifornia.com
