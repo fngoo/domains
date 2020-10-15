@@ -5364,8 +5364,6 @@ pocketnet.biz
 cingularwireless.biz
 attlumo.biz
 attwireless.app
-attlumo.biz
-attwireless.app
 watchatt.app
 directvgratis.net
 atttworldnet.org
@@ -5376,3 +5374,5 @@ attlocal.net
 directvinternet.net
 direcpath.net
 attwireless.us
+dsswizard.net
+dierctv.com
