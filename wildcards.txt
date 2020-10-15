@@ -4905,3 +4905,5 @@ sbc-messaging.net
 vehicledemo.net
 yavaosoccerbydirectv.net
 attsucks.net
+atttwireless.net
+atsdss.net
