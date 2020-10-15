@@ -4224,3 +4224,4 @@ att-1-rate-usa.biz
 sbcmail.org
 sbc-swbell.biz
 cingular-mobile.org
+advanced-att.biz
