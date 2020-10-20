@@ -1637,3 +1637,4 @@ mobile-att.net
 directvstore.org
 generaciondirectv.org
 dslbellsouth.net
+cingular-prepaid.org
