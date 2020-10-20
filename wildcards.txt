@@ -45,3 +45,4 @@ local-directv.com
 xandr-mail.com
 attwifi.com
 sbcyahoo-dial.com
+directvwireless.com
