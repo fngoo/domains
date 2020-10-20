@@ -1559,3 +1559,4 @@ attwireless.services
 atthomeandwireless.biz
 directtv-dsl.com
 uversebirmingham.com
+cingulartelephone.org
