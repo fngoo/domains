@@ -1140,8 +1140,6 @@ spanishdirectv.com
 dvbs2licensing.net
 directvdish.org
 attwirelessplaza.org
-directvdish.org
-attwirelessplaza.org
 raisingthebar.info
 uverseboyntonbeach.com
 att-internet.com
@@ -1237,3 +1235,5 @@ mycingular.net
 uverse.com
 directv-mobile.net
 yaveogolbydirecttv.com
+cingular-mobility.net
+m-modepix.com
