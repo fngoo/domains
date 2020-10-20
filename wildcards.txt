@@ -1507,3 +1507,5 @@ attu-verseoffers.com
 uverse.org
 speedpath.info
 pitoudev.net
+sbc-att.info
+notextonboard.org
