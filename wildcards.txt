@@ -2880,3 +2880,6 @@ attmns.info
 u-verse.biz
 storageconnect.biz
 sbcu-versephone.biz
+u-versewifi.biz
+attuverse.tv
+connectdirectv.net
