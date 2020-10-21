@@ -6090,3 +6090,6 @@ flash.net
 attfamilymap.net
 directvgenie.net
 ingenio.co
+attuverse.us
+yahoosbc.org
+cingularwireless.mobi
