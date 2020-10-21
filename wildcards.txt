@@ -3651,3 +3651,5 @@ att-uverse.app
 sbc-messaging.com
 www-direct-tv.com
 attcellphone.org
+sbcyahoo-bizdsl.org
+free2gowireless.com
