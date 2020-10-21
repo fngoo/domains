@@ -4630,8 +4630,6 @@ attinternetfranklin.com
 attinternetroundrock.com
 attinternetwaynesville.com
 attmidlothian.com
-attinternetwaynesville.com
-attmidlothian.com
 attmilton.com
 attfremont.com
 sbcstadium.info
@@ -4639,3 +4637,5 @@ amagineengage.org
 attbundles.mobi
 sbcdial.biz
 att-raise-the-bar.info
+att-consumer.biz
+cingularpremier.mobi
