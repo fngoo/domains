@@ -5805,3 +5805,4 @@ pbi.net
 att.biz
 tvatt.biz
 directv.biz
+sbcuversemessaging.biz
