@@ -6139,9 +6139,6 @@ mmode.org
 dssuniverse.net
 cingularvpn.com
 att.info
-dssuniverse.net
-cingularvpn.com
-att.info
 filexchange.us
 sbchomeentertainment.us
 nevadabell.us
@@ -6160,8 +6157,6 @@ att.com.co
 edgewirelesscommunication.net
 attla.cl
 att.mx
-att.mx
-attinc.cz
 attinc.cz
 webhosting.ca
 ignet.com.br
@@ -6172,3 +6167,7 @@ probusinessapps.com.mx
 fastaccess.us
 bigtdata.co
 1800callatt.com
+directtvhsi.net
+attloss.net
+attrogers.ca
+uversetv.net
