@@ -5824,3 +5824,7 @@ attcom.net
 callatt.org
 mmode.us
 uversemobile.net
+uverseeverywhere.app
+uversesandiego.net
+uverseeverywhere.app
+uversesandiego.net
