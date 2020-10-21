@@ -4280,3 +4280,4 @@ cingular.net
 att-billing.org
 telephonesatt.org
 attcellular.org
+cingularcallingcard.org
