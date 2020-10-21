@@ -9796,3 +9796,4 @@ attconsumer.biz
 callatt-simpleminutes.biz
 pacificbell.biz
 cingularespanol.org
+cingularnews.org
