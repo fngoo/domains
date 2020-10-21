@@ -8732,3 +8732,6 @@ attsportsnet.sport
 att-worldwide.org
 directvmarchmadness.com
 firstbell.org
+sbcwest.org
+sbceast.org
+yavaosoccerbydirecttv.org
