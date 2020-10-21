@@ -4571,3 +4571,4 @@ attwirelessservices.info
 cingularcellphones.org
 pacificbellprivacymanager.info
 attmobilityservices.biz
+sbcglobal-ld.org
