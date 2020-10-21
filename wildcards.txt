@@ -6279,3 +6279,4 @@ directvmessageboard.us
 rolloverallover.us
 att.kr
 attinc.fr
+directv.ng
