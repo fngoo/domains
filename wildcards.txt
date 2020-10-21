@@ -6280,3 +6280,4 @@ rolloverallover.us
 att.kr
 attinc.fr
 directv.ng
+att.co.kr
