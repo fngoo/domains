@@ -5646,3 +5646,4 @@ att-idns.org
 sbcu-versebroadband.com
 directv911.com
 directvcedarrapids.com
+directv.tel
