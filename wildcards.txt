@@ -6919,3 +6919,4 @@ zdev.net
 zendesk.com
 zomans.com
 zomato.com
+paypalcorp.com
