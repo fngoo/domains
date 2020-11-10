@@ -13174,3 +13174,4 @@ zdev.net
 zendesk.com
 zomans.com
 zomato.com
+mendix.com
